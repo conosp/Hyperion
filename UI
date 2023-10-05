@@ -1703,7 +1703,7 @@ function library.createdropdown(holder, content, flag, callback, default, max, s
             Text = name,
             Font = Drawing.Fonts.Plex,
             Size = 13,
-            Position = UDim2.new(0, 8, 0, 1),
+            Position = UDim2.new(0, 80, 0, 1),
             Theme = "Disabled Text",
             ZIndex = 15,
             Outline = true,
