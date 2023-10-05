@@ -2837,6 +2837,7 @@ function library:Load(options)
         Position = UDim2.new(0, 275, 0, 4),
         Theme = "Text",
         ZIndex = 4,
+        Center = true,
         Outline = true,
         Parent = holder,
     })
